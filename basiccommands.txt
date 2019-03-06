@@ -1,2 +1,5 @@
 ls
 ls -l
+cd
+cat 
+nano
